@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Abhishek 👋
 
-<!--
-**4Abhi54/4Abhi54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Development Engineer | Web Developer | Problem Solver**
 
-Here are some ideas to get you started:
+I’m a passionate **Software Developer** with strong fundamentals in **Data Structures & Algorithms, Full-Stack Web Development, and System Design**.  
+I love building scalable applications, solving real-world problems through code, and continuously learning modern technologies.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 About Me
+- 🎓 Pre-final year student with a focus on **Software Engineering & Compiler Design**  
+- 💻 Hands-on experience in **MERN Stack (MongoDB, Express, React, Node.js)**  
+- ⚡ Strong in **Java, C++, and Python** with problem-solving on LeetCode/Codeforces  
+- 📈 Enthusiastic about **Cloud, DevOps, and System Design**  
+- 🌱 Currently exploring **Microservices & Distributed Systems**
+
+---
+
+## 🔹 Tech Stack
+- **Languages:** Java, C++, Python, JavaScript, TypeScript  
+- **Frontend:** React.js, Next.js, TailwindCSS, Bootstrap  
+- **Backend:** Node.js, Express.js, REST APIs, GraphQL  
+- **Databases:** MongoDB, MySQL, PostgreSQL  
+- **DevOps & Tools:** Git, GitHub, Docker, Kubernetes, AWS Basics  
+- **Other Skills:** Data Structures, Algorithms, OOPs, DBMS, OS, Compiler Design  
+
+---
+
+## 🔹 Projects
+🚀 Some of my featured work:  
+- **Wanderlust (Airbnb Clone):** Full-stack MERN application for listings & bookings with authentication.  
+- **Compiler Mini-Project:** Built a lexical analyzer & parser for a custom language.  
+- **Portfolio Website:** Responsive portfolio with smooth UI/UX using React + TailwindCSS.  
+- **API Development:** RESTful APIs with authentication & authorization (JWT, OAuth2).  
+
+---
+
+## 🔹 GitHub Stats
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🔹 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+- 📧 Email: YOUR_EMAIL@gmail.com  
+- 🌐 [Portfolio Website](https://your-portfolio-link.com)  
+
+---
+
+⭐️ *"Code is like humor. When you have to explain it, it’s bad."*  
