@@ -8,10 +8,10 @@ I love building scalable applications, solving real-world problems through code,
 ---
 
 ## 🔹 About Me
-- 🎓 Pre-final year student with a focus on **Software Engineering & Compiler Design**  
+- 🎓 final year student with a focus on **Software Engineering & Compiler Design**  
 - 💻 Hands-on experience in **MERN Stack (MongoDB, Express, React, Node.js)**  
 - ⚡ Strong in **Java, C++, and Python** with problem-solving on LeetCode/Codeforces  
-- 📈 Enthusiastic about **Cloud, DevOps, and System Design**  
+- 📈 Enthusiastic about **DevOps, and System Design**  
 - 🌱 Currently exploring **Microservices & Distributed Systems**
 
 ---
