@@ -36,14 +36,14 @@ I love building scalable applications, solving real-world problems through code,
 ---
 
 ## 🔹 GitHub Stats
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhishekIrle454&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekIrle454&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔹 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
-- 📧 Email: YOUR_EMAIL@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-irle454)  
+- 📧 Email: abhishekirle387@gmail.com  
 - 🌐 [Portfolio Website](https://your-portfolio-link.com)  
 
 ---
